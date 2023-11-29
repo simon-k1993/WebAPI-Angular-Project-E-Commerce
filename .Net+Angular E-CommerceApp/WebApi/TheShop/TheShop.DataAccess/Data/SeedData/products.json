@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "PawArmor StrideStylers",
+    "Description": "Keep your pup's paws cozy and safe with our premium dog boots. Stylish, durable, and perfect for all seasons, these boots offer essential protection during walks and adventures. Pamper your furry friend with the ultimate paw gear!",
+    "Price": 200,
+    "PictureUrl": "images/products/boots.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Durabounce PupSphere",
+    "Description": "Introducing the Durabounce PupSphere, a resilient and entertaining plastic ball designed for your furry friend. Perfect for interactive play, this durable sphere is crafted to withstand enthusiastic chewing and bouncing, providing endless joy for your canine companion.",
+    "Price": 150,
+    "PictureUrl": "images/products/plasticBall.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "White Pawsome Elegance Collar",
+    "Description": "Elevate your pup's style with our Pawsome Elegance Collar in radiant white. This chic accessory blends fashion with functionality, offering comfort and durability. Crafted for daily adventures, it's the perfect way to showcase your dog's unique charm while ensuring they stay safe and secure in pristine, elegant style.",
+    "Price": 180,
+    "PictureUrl": "images/products/whiteCollar.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Brown Pawsome Elegance Collar",
+    "Description": "Elevate your pup's style with our Pawsome Elegance Collar in warm brown. This chic accessory blends fashion with functionality, offering comfort and durability. Crafted for daily adventures, it's the perfect way to showcase your dog's unique charm while ensuring they stay safe and secure in pristine, elegant style.",
+    "Price": 300,
+    "PictureUrl": "images/products/darkCollar.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Crimson Canine Couture",
+    "Description": "Dress your furry friend in style with our Crimson Canine Couture, a vibrant red dog shirt that exudes both flair and comfort. Crafted with a keen eye for fashion and attention to detail, this shirt is the perfect blend of boldness and coziness. Elevate your dog's wardrobe with this red-hot piece, making every outing a stylish and memorable affair.",
+    "Price": 250,
+    "PictureUrl": "images/products/shirtRed.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Azure Canine Couture",
+    "Description": "Dress your furry friend in style with our Azure Canine Couture, a cool blue dog shirt that radiates both charm and comfort. Meticulously crafted with a keen sense of fashion and attention to detail, this shirt offers the perfect combination of vibrancy and coziness. Upgrade your dog's wardrobe with this ocean-inspired piece, turning every stroll into a fashionable and unforgettable experience.",
+    "Price": 120,
+    "PictureUrl": "images/products/shirtBlue.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "PawsPlay PerfectFetch Tennis Ball",
+    "Description": "Elevate your pup's playtime with our PawsPlay PerfectFetch Tennis Ball. Specially designed for dogs, this vibrant and durable ball ensures hours of fetching fun. Its high-bounce rubber core and textured surface make it perfect for interactive games, promoting both exercise and bonding. Treat your furry friend to the joy of an active lifestyle with the PawsPlay PerfectFetch Tennis Ball – where every toss is a delight for your playful companion.",
+    "Price": 10,
+    "PictureUrl": "images/products/tennisBall.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "RubyChew Red ResilientBone",
+    "Description": "Indulge your pup in playful moments with our RubyChew Red ResilientBone. Crafted for durability and endless fun, this vibrant red rubber bone toy withstands enthusiastic chewing and fetching. Its textured surface massages gums, promoting dental health for your cherished companion. Treat your pup to the joy of RubyChew – where playtime meets durability in a brilliant burst of color.",
+    "Price": 8,
+    "PictureUrl": "images/products/rubberBoneRed.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "SapphireChomp Blue ResilientBone",
+    "Description": "Engage your pup in hours of joy with our SapphireChomp Blue ResilientBone. Engineered for durability and playfulness, this lively blue rubber bone toy is built to endure lively chewing and fetching sessions. Its textured surface provides gum stimulation and supports dental health, making every playtime a delightful experience. Spoil your furry friend with SapphireChomp – where durability meets vibrant playfulness in a soothing shade of blue.",
+    "Price": 15,
+    "PictureUrl": "images/products/rubberBoneBlue.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "DentaDelight Chewy Dental Sticks",
+    "Description": "Introducing DentaDelight Chewy Dental Sticks – the perfect blend of tasty treats and oral care. Crafted to support dental health, these snacks provide a satisfying chew for your pup. Packed with wholesome ingredients, each stick promotes fresh breath and clean teeth. Elevate snack time with DentaDelight – where deliciousness meets dental care in every delightful bite!",
+    "Price": 18,
+    "PictureUrl": "images/products/dentalSnack.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "GraphitePup UrbanChic Jacket",
+    "Description": "Dress your pup in contemporary style with the GraphitePup UrbanChic Jacket. This sleek gray outerwear is a fashion statement and functional piece for your furry friend. Crafted with comfort in mind, it features a snug fit and durable materials, perfect for daily walks and outdoor adventures. Keep your pup cozy and on-trend with the GraphitePup UrbanChic Jacket – where fashion meets functionality for the modern dog.",
+    "Price": 15,
+    "PictureUrl": "images/products/jacketGray.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "CrimsonCanine StreetStyle Jacket",
+    "Description": "Elevate your pup's style with the CrimsonCanine StreetStyle Jacket. This bold red outerwear seamlessly blends fashion and function. Tailored for comfort and durability, it keeps your pup snug during outdoor escapades. Make a statement with its vibrant color and sleek urban design. Redefine your pup's street style with the CrimsonCanine StreetStyle Jacket – where fashion and practicality meet in a blaze of sophistication.",
+    "Price": 16,
+    "PictureUrl": "images/products/jacketRed.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "MightyMeat Morsels",
+    "Description": "Treat your pup to the delectable taste of MightyMeat Morsels. Crafted with real meat flavor, these savory snacks satisfy cravings with wholesome goodness. Ideal for training or as a delightful reward, they'll have your dog's tail wagging with joy. Elevate snack time with the rich and meaty indulgence of MightyMeat Morsels – your dog deserves a flavor-packed experience every time.",
+    "Price": 14,
+    "PictureUrl": "images/products/snacksBoneMeatFlavour.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "OceanBite Fish Feasts",
+    "Description": "Dive into flavor with OceanBite Fish Feasts! Infused with real fish, these snacks are a nutritious delight for your dog. Packed with omega-3s, they're perfect for pampering your pup or adding variety to snack time. Watch as your dog enjoys an oceanic treat with every bite – a fishy feast for your four-legged friend!",
+    "Price": 250,
+    "PictureUrl": "images/products/snacksBoneFishFlavour.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "AquaPaw Hydration Companion",
+    "Description": "Quench your pup's thirst on-the-go with our AquaPaw Hydration Companion. This innovative water bottle for dogs ensures convenient hydration during walks or adventures. Featuring a built-in bowl for easy sipping, it's the perfect travel companion for keeping your furry friend refreshed and happy. Make every outing a hydrating delight with the AquaPaw – where convenience meets canine comfort.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/watterBottle.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ShadowStride Canine Leash",
+    "Description": "Step out in style with our ShadowStride Canine Leash. This sleek black leash is both a fashion accessory and a practical tool for your daily walks. Crafted for durability and comfort, it provides a secure grip while enhancing your pup's confident stride. Elevate your walking experience with the ShadowStride – where sophistication meets functionality in every step.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/leashBlack.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "BlueWave Canine Leash",
+    "Description": "Enhance your pup's daily walks with our BlueWave Canine Leash. This vibrant blue leash is not just a practical tool but also a stylish accessory for your adventures. Designed for durability and comfort, it ensures a secure grip while adding a touch of color to your pup's stride. Step out in confidence with the BlueWave – where functionality meets fashion in every stroll.",
+    "Price": 150,
+    "PictureUrl": "images/products/leashBlue.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "ScarletStrut Canine Leash",
+    "Description": "Make a statement on your walks with our ScarletStrut Canine Leash. This bold red leash is both a stylish accessory and a reliable tool for your pup's outdoor excursions. Crafted for durability and comfort, it provides a secure grip while adding a pop of color to your furry friend's stride. Stride confidently with the ScarletStrut – where fashion meets functionality in every step.",
+    "Price": 180,
+    "PictureUrl": "images/products/leashRed.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  }
+]

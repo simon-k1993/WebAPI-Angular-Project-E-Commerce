@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\bin\Debug\net7.0\TheShop.Specifications.deps.json
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\bin\Debug\net7.0\TheShop.Specifications.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\bin\Debug\net7.0\TheShop.Specifications.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\bin\Debug\net7.0\TheShop.Domain.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\bin\Debug\net7.0\TheShop.Domain.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.AssemblyInfo.cs
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.csproj.CopyComplete
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\refint\TheShop.Specifications.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\TheShop.Specifications.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Specifications\obj\Debug\net7.0\ref\TheShop.Specifications.dll

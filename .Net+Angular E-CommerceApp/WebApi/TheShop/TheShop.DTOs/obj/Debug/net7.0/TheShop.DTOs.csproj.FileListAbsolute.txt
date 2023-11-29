@@ -1,0 +1,12 @@
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\bin\Debug\net7.0\TheShop.DTOs.deps.json
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\bin\Debug\net7.0\TheShop.DTOs.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\bin\Debug\net7.0\TheShop.DTOs.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.AssemblyInfo.cs
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\refint\TheShop.DTOs.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\TheShop.DTOs.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.DTOs\obj\Debug\net7.0\ref\TheShop.DTOs.dll

@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\bin\Debug\net7.0\TheShop.Domain.deps.json
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\bin\Debug\net7.0\TheShop.Domain.runtimeconfig.json
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\bin\Debug\net7.0\TheShop.Domain.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\bin\Debug\net7.0\TheShop.Domain.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.AssemblyInfo.cs
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\refint\TheShop.Domain.dll
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.pdb
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\TheShop.Domain.genruntimeconfig.cache
+C:\Users\Simon\Desktop\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop.Domain\obj\Debug\net7.0\ref\TheShop.Domain.dll
