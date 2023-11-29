@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w5T/rEyQATtbDFw29lrI80QxsZcpnRkbmpSicjbmON/yDHHzkqa9vB5fWx1jOl5C+n3RPUYOYDoCpcRNmJ2RcA==",
+  "dgSpecHash": "0aSt90aSObarCRfotxDuxBZAPmhlLKM+IsdLijhn7mqwacGqPPqCwa4m1HVBddoDsALD7404BvWlEVSazx1+xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Specifications\\TheShop.Specifications.csproj",
+  "projectFilePath": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Specifications\\TheShop.Specifications.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Simon\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

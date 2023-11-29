@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj": {}
+    "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj": {
+    "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj",
         "projectName": "TheShop.Domain",
-        "projectPath": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj",
+        "projectPath": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\TheShop.Domain.csproj",
         "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x6h3NlVvqYEAlEhRrkmjfc+W5RoCoP2C32+ZpN36zig=",
+  "Hash": "A06+NX0PP92J//etPu1COgcInhwYPvlBfcstzADdcUA=",
   "Source": "TheShop",
   "BasePath": "_content/TheShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TheShop\\wwwroot",
       "Source": "TheShop",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\boots.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\boots.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/boots.png",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\boots.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\darkCollar.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\darkCollar.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/darkCollar.png",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\darkCollar.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\dentalSnack.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\dentalSnack.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/dentalSnack.png",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\dentalSnack.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\jacketGray.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\jacketGray.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/jacketGray.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\jacketGray.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\jacketRed.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\jacketRed.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/jacketRed.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\jacketRed.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashBlack.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashBlack.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/leashBlack.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\leashBlack.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashBlue.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashBlue.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/leashBlue.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\leashBlue.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashRed.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\leashRed.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/leashRed.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\leashRed.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\plasticBall.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\plasticBall.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/plasticBall.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\plasticBall.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\rubberBoneBlue.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\rubberBoneBlue.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/rubberBoneBlue.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\rubberBoneBlue.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\rubberBoneRed.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\rubberBoneRed.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/rubberBoneRed.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\rubberBoneRed.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\shirtBlue.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\shirtBlue.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/shirtBlue.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\shirtBlue.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\shirtRed.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\shirtRed.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/shirtRed.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\shirtRed.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\snacksBoneFishFlavour.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\snacksBoneFishFlavour.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/snacksBoneFishFlavour.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\snacksBoneFishFlavour.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\snacksBoneMeatFlavour.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\snacksBoneMeatFlavour.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/snacksBoneMeatFlavour.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\snacksBoneMeatFlavour.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\tennisBall.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\tennisBall.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/tennisBall.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\tennisBall.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\watterBottle.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\watterBottle.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/watterBottle.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Products\\watterBottle.png"
     },
     {
-      "Identity": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\whiteCollar.png",
+      "Identity": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\images\\Products\\whiteCollar.png",
       "SourceId": "TheShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop\\wwwroot\\",
       "BasePath": "_content/TheShop",
       "RelativePath": "images/Products/whiteCollar.png",
       "AssetKind": "All",

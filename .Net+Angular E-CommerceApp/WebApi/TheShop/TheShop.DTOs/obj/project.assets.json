@@ -317,11 +317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\TheShop.DTOs.csproj",
+      "projectUniqueName": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\TheShop.DTOs.csproj",
       "projectName": "TheShop.DTOs",
-      "projectPath": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\TheShop.DTOs.csproj",
+      "projectPath": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\TheShop.DTOs.csproj",
       "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Simon\\Desktop\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\obj\\",
+      "outputPath": "C:\\Users\\Simon\\Desktop\\Git\\WebAPI-Angular-Project-E-Commerce\\.Net+Angular E-CommerceApp\\WebApi\\TheShop\\TheShop.DTOs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
