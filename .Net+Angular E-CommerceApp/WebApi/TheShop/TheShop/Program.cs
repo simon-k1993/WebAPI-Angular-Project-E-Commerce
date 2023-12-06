@@ -15,6 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddAplicationServices(builder.Configuration);
+builder.Services.AddMemoryCache();
 
 var app = builder.Build();
 
