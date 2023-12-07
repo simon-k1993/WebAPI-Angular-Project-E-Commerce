@@ -184,3 +184,4 @@ C:\Users\Simon\Desktop\Git\WebAPI-Angular-Project-E-Commerce\.Net+Angular E-Comm
 C:\Users\Simon\Desktop\Git\WebAPI-Angular-Project-E-Commerce\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop\obj\Debug\net7.0\TheShop.pdb
 C:\Users\Simon\Desktop\Git\WebAPI-Angular-Project-E-Commerce\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop\obj\Debug\net7.0\TheShop.genruntimeconfig.cache
 C:\Users\Simon\Desktop\Git\WebAPI-Angular-Project-E-Commerce\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop\obj\Debug\net7.0\ref\TheShop.dll
+C:\Users\Simon\Desktop\Git\WebAPI-Angular-Project-E-Commerce\.Net+Angular E-CommerceApp\WebApi\TheShop\TheShop\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -14,6 +14,12 @@ namespace TheShop.Controllers
             _storeContext = storeContext;
         }
 
+        [HttpGet("testauth")]
+        [Authorize]
+        public ActionResult<string> GetSecretText()
+        {
+            return "secret stuff";
+        }
 
 
         [HttpGet("notfound")]
